@@ -1,0 +1,30 @@
+Guideline
+
+guidelines-derivativework
+https://www.pocketpair.jp/guidelines-derivativework
+
+---
+
+Pal Data, Breeding Data
+
+This product includes software developed by the https://github.com/tylercamp/palcalc Project
+MIT license https://github.com/tylercamp/palcalc?tab=MIT-1-ov-file#readme
+
+---
+
+App Icon
+
+This product includes software developed by the https://github.com/google/material-design-icons Project
+Apache-2.0 license https://github.com/google/material-design-icons?tab=Apache-2.0-1-ov-file#readme
+
+---
+
+npm-lisenses
+
+.\bcp\src\licenses\npm-licenses.csv
+
+---
+
+cargo-licenses
+
+.\bcp\src-tauri\licenses\cargo-licenses.json
